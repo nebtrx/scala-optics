@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/omar/Documents/work/scala/scala-optics/src/main/scala/example/Isos.scala:21:50: Found several case class accessor for example.Models.Person, example.Models.Person needs to be a case class with a single accessor.[0m
+[0m[[0m[31merror[0m] [0m[0m  val automapper: Iso[Person, PersonDTO] = GenIso[Person, PersonDTO][0m
+[0m[[0m[31merror[0m] [0m[0m                                                 ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
